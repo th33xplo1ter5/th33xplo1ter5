@@ -1,8 +1,3 @@
-
-![photo_6307305971671741543_y](https://github.com/th33xplo1ter5/th33xplo1ter5/assets/132211290/39e10e80-dd85-403d-a6b2-c8c57b06de9e)
-
-
-
 <p align="center">
 <a href="https://th33xplo1ter5.github.io/"><img title="Made in BANGLADESH" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 
